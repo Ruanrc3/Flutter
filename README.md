@@ -34,21 +34,6 @@ As tarefas são armazenadas por dia e exibidas em ordem: **pendentes primeiro (o
 - [Firebase Core](https://pub.dev/packages/firebase_core) – configuração inicial do Firebase (não obrigatória para este projeto)  
 
 
-## 📂 Estrutura do Projeto
-
-lib/
-├── main.dart
-├── screens/
-│ ├── login_screen.dart
-│ ├── register_screen.dart
-│ ├── calendar_screen.dart
-│ └── task_list_screen.dart
-├── models/
-│ └── task.dart
-├── providers/
-│ └── task_provider.dart
-└── task_item.dart
-
 👨‍💻 Autor
 
 Projeto desenvolvido por Ruan Coutinho.
