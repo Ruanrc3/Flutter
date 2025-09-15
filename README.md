@@ -38,3 +38,26 @@ As tarefas são armazenadas por dia e exibidas em ordem: **pendentes primeiro (o
 
 Projeto desenvolvido por Ruan Coutinho.
 
+📸 Prints
+ 
+<img width="1600" height="869" alt="image" src="https://github.com/user-attachments/assets/ba455695-a9fb-40a0-a51b-9c14b2b5d5d7" />
+
+<img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/a9a1d206-d07d-495a-b78a-e248af0ae526" />
+
+<img width="1600" height="881" alt="image" src="https://github.com/user-attachments/assets/3c81ad89-980b-48a4-9023-d9bbc042cf28" />
+
+<img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/9812b042-d60f-4add-9dcd-5529f8f6b1c9" />
+
+<img width="1600" height="870" alt="image" src="https://github.com/user-attachments/assets/fb5ad258-91ca-474a-bf15-bfe8200172f5" />
+
+<img width="1600" height="873" alt="image" src="https://github.com/user-attachments/assets/72d9810a-babe-4f9c-831c-b10876da585c" />
+
+
+
+
+
+
+
+
+
+
